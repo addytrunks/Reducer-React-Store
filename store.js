@@ -6,7 +6,7 @@ import {composeWithDevTools} from 'redux-devtools-extension'
 
 //You wanna put all the reducers here.
 const reducer = combineReducers({
-    // Pass your reducers here.
+    // Pass your reducers over here.
 })
 
 //Contains thing you want to fire off once redux loads.
